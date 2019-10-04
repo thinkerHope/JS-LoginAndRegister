@@ -6,7 +6,7 @@ import "../css/style.css";
 import LoginForm from "./login1";
 import Loading2 from "./login2";
 
-const url = "https://thinkerhope.github.io/2019/09/09/5c1ddc1113894.jpg";
+const url = "https://thinkerhope.github.io/2019/10/01/凡心所向/5c1ddc1113894.jpg";
 const imgs = [
 	"https://github.com/zhangZhiHao1996/image-store/blob/master/react-admin-master/slide1.jpg?raw=true",
 	"https://github.com/zhangZhiHao1996/image-store/blob/master/react-admin-master/slide2.jpg?raw=true",
@@ -122,7 +122,7 @@ const styles = {
 		width: "100vw",
 		height: "100vh",
 		// backgroundImage: 'url(https://github.com/zhangZhiHao1996/image-store/blob/master/react-admin-master/bg5.jpg?raw=true)',
-		backgroundImage: "url(https://thinkerhope.github.io/2019/09/09/5c1ddc1113894.jpg)",
+		backgroundImage: "url(https://thinkerhope.github.io/2019/10/01/凡心所向/5c1ddc1113894.jpg)",
 		backgroundSize: "100% 100%",
 		transition:"all .5s"
 	},
